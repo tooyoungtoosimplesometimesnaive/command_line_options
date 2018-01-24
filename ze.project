@@ -1,0 +1,3 @@
+lang:c++
+lib:command_line_options.cpp, command_line_options.hpp
+project_name:command_line_options
